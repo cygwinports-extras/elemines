@@ -1,0 +1,11 @@
+NAME="elemines"
+VERSION=0.1
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="Enlightenment minesweeper game"
+DESCRIPTION="Elemines is a minesweeper game: the object of the game is to clear
+an abstract minefield without detonating a mine. Left-click discovers a square,
+right-click flags a square."
+HOMEPAGE="http://elemines.sourceforge.net/"
+GIT_URI="git://elemines.git.sourceforge.net/gitroot/elemines/elemines"
+inherit git
